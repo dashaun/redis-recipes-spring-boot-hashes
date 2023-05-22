@@ -1,0 +1,15 @@
+= Redis Recipes for Spring Boot
+
+== Hash Data Type
+
+=== hset
+
+operation::hset[snippets='httpie-request']
+
+=== hmset
+
+operation::hmset[snippets='httpie-request']
+
+=== hgetAll
+
+operation::hgetall[snippets='httpie-request']
